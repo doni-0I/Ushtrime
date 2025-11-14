@@ -61,4 +61,5 @@ This project is open source and available for educational purposes.
 
 ## Notes
 
-This is a test/learning project. Feel free to experiment and modify the files as part of your learning journey.
+Im probly sleeping when u watchin this!
+
